@@ -1,0 +1,14 @@
+[
+  {
+    "image": "photos/sample-1.jpg",
+    "title": "Morning on the mountain",
+    "caption": "The mist hadn't lifted yet. Just hot coffee and birdsong.",
+    "date": "2026-10-12"
+  },
+  {
+    "image": "photos/sample-2.jpg",
+    "title": "Dinner at home",
+    "caption": "Everyone was there. The old wooden table, Mom's cooking, the best meal ever.",
+    "date": "2026-08-03"
+  }
+]
